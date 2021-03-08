@@ -1,6 +1,7 @@
 ### Hi there,
 
 My name is Sander van Kuijk. I work as clinical epidemiologist at the Maastricht University Medical Centre+, and teach at Maastricht University.
+You can find the research projects I've been involved in at https://scholar.google.com/citations?user=M8GwORkAAAAJ&hl=en.
 
 
 
