@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there,
+
+My name is Sander van Kuijk. I work as clinical epidemiologist at the Maastricht University Medical Centre+, and teach at Maastricht University.
+
+
 
 <!--
 **sandervkuijk/sandervkuijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
